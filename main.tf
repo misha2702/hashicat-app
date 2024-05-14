@@ -124,5 +124,5 @@ module "cloud-storage" {
   version    = "3.4.1"
   names      = ["hashicat-private"]
   prefix     = var.prefix
-  project_id = var.project
+  project_id = "ws-1dDEgnoy4wy4BLBj"
 }
